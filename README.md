@@ -16,7 +16,7 @@ A rendering engine that renders signed distance fields with different materials 
 
 <p align="center">Loop Flythrough</p>
 
-![Flyby](demos/flyby.gif)
+![Flyby](demos/flythrough_small.gif)
 
 <p align="center">RGB Lights</p>
 
