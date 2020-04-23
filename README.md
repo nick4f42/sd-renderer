@@ -21,11 +21,3 @@ A rendering engine that renders signed distance fields with different materials 
 <p align="center">RGB Lights</p>
 
 ![Spinny still](demos/spinny_still.png)
-
-<p align="center">Spinny RGB Lights (featuring compression artifacts)</p>
-
-![Spinny](demos/spinny.gif)
-
-<div align="center">Yellow Balls <span align="center" style="font-size:10px">(Watch until the end!)</span></p>
-
-![Yellow balls](demos/yellow_balls.gif)
