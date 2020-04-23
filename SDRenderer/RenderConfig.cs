@@ -10,7 +10,7 @@ namespace SDRenderer
 
 		public static int MaxLightMarches = 3000;
 
-		public static int MaxReflections = 150;
+		public static int MaxReflections = 2;
 
 		public static float MaxRayDistance = 10000f;
 

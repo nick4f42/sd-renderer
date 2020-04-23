@@ -5,10 +5,7 @@ VisualStudioVersion = 16.0.29409.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SDRenderer", "SDRenderer\SDRenderer.csproj", "{73EAB1C5-5D8B-4B46-AE05-FDD7528A6801}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scene", "Scene\Scene.csproj", "{FBE00A7C-3C81-4083-971C-70D42786F1E1}"
-	ProjectSection(ProjectDependencies) = postProject
-		{73EAB1C5-5D8B-4B46-AE05-FDD7528A6801} = {73EAB1C5-5D8B-4B46-AE05-FDD7528A6801}
-	EndProjectSection
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleScene", "ExampleScene\ExampleScene.csproj", "{A6A1AC7D-5513-4E3F-B58D-1897AFA508CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,10 +17,10 @@ Global
 		{73EAB1C5-5D8B-4B46-AE05-FDD7528A6801}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73EAB1C5-5D8B-4B46-AE05-FDD7528A6801}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73EAB1C5-5D8B-4B46-AE05-FDD7528A6801}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FBE00A7C-3C81-4083-971C-70D42786F1E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FBE00A7C-3C81-4083-971C-70D42786F1E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FBE00A7C-3C81-4083-971C-70D42786F1E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FBE00A7C-3C81-4083-971C-70D42786F1E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6A1AC7D-5513-4E3F-B58D-1897AFA508CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A1AC7D-5513-4E3F-B58D-1897AFA508CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A1AC7D-5513-4E3F-B58D-1897AFA508CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A1AC7D-5513-4E3F-B58D-1897AFA508CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
